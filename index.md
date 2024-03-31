@@ -12,3 +12,10 @@ from discord.ext import commands
 import discord
 #importing discord to a python program
 ```
+
+### Task List
+- [x] Complete Headers
+- [x] Add Image
+- [x] Add code example
+- [ ] make a task list
+- [ ] merge pull request
